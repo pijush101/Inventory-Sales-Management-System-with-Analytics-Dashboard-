@@ -1,3 +1,4 @@
-http://127.0.0.1:5000
+http://localhost:8501/
+
 username - admin
 password - Admin@123
